@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# editor stuff
+.idea
+*.sublime-*
+
+# database
+annotations.db
